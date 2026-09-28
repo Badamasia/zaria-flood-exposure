@@ -34,7 +34,7 @@ still outstanding — see "What's still missing" below.
 - **Week 4 — Analysis**:
   [month-1-summary.md](./month-1-summary.md) — the buffer operation run,
   what was expected versus what came out, and what surprised me. Map
-  image: [zaria_flood_buffer_200m.png](./zaria_flood_buffer_200m.png)
+  image: [zaria_flood_buffer_200m.png](Zaria_Waterways_Buffer.png)
 
 ## What's still missing
 
