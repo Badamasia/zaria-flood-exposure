@@ -1,4 +1,4 @@
-# Zaria flood exposure project
+# Zaria flood exposure project - Badamasi Annas, pod 4
 
 Which settlements in Zaria Local Government Area, Kaduna State sit in
 low-lying land within 200 metres of a river or watercourse?
@@ -50,3 +50,6 @@ All processed, analysis-ready files are in `data/processed/`. Raw
 downloads are untouched in `data/raw/`.
 
 [README.md](https://github.com/user-attachments/files/31837391/README.md)
+  
+   ## Month 2: development environment and early Python
+   - Week 5: set up Python, VS Code and the terminal. hello.py runs.
