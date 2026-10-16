@@ -49,8 +49,10 @@ still outstanding — see "What's still missing" below.
 All processed, analysis-ready files are in `data/processed/`. Raw
 downloads are untouched in `data/raw/`.
 
+
 [README.md](https://github.com/user-attachments/files/31837391/README.md)
   
    ## Month 2: development environment and early Python
    - Week 5: set up Python, VS Code and the terminal. hello.py runs.
    -  Week 6: set up the project with uv and added pandas. check.py prints the pandas version.
+   -  - Week 7: analyse.py reads wards.csv, converts each area and classifies each ward.
